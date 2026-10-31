@@ -1,0 +1,6 @@
+{
+  "name": "Kashi Computer and Mobile Repairing",
+  "description": "Professional computer, laptop, and smartphone repair service at Shukla Complex, Rajghat, Raebareli. Call 7398396002 for screen replacement, motherboard repair, and fast servicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
